@@ -1,0 +1,30 @@
+[
+  {
+    "content": "E-6.1 Lencana peran: titik `·` dipisah dari label — kedua cabang, terverifikasi 'Admin'/'Finance'/'Sales'",
+    "status": "completed"
+  },
+  {
+    "content": "E-6.2 POC meja kerja E-8 G2/G3 didaftarkan sebagai gate + residu +5 audit_logs ditutup (bukti-merah 94/97)",
+    "status": "completed"
+  },
+  {
+    "content": "E-6.6a BUG NYATA #1 (US11): dasbor membocorkan pesanan rekan ke sales — `dashboard.py` lupa `sales_ownership`; ditutup + 5 cek baru di POC (bukti-merah)",
+    "status": "completed"
+  },
+  {
+    "content": "E-6.6b BUG NYATA #2 (US23/24): pita 'Dipenuhi dari Badan Usaha Lain' tak pernah tampil (field turunan dibaca dari respons daftar); ditutup via OrderIntercoSupplyPanel + gate baru INV-UI-04 (bukti-merah)",
+    "status": "completed"
+  },
+  {
+    "content": "E-6.4 gate.sh --full HIJAU 57 gate (naik dari 55) + frontend di-build ulang",
+    "status": "completed"
+  },
+  {
+    "content": "E-6.5 testing_agent_v3 putaran-3: verifikasi 2 perbaikan + US29b + tuntaskan sisa user story",
+    "status": "in_progress"
+  },
+  {
+    "content": "E-6.7 Perbarui dokumen: plan.md §8, memory/HANDOFF.md, SESSION_HANDOFF.md, SESSION_LOG.md, INVARIANTS.md (INV-UI-04 sudah)",
+    "status": "pending"
+  }
+]
